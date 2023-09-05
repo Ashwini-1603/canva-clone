@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/canva2/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/canva-clone/' : '/',
 };
